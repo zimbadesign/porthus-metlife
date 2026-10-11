@@ -1,0 +1,11 @@
+PORTHUS — LANDING PAGE HTML + CSS
+
+Para visualizar: abra index.html em seu navegador.
+Para publicar: envie index.html, style.css e toda a pasta assets para o mesmo diretório no servidor.
+
+Todos os textos, botões, caixas, cartões e links são HTML/CSS reais, não impressões de tela.
+Os arquivos da pasta assets são imagens individuais fornecidas no ZIP original.
+Não há JavaScript, bibliotecas ou dependências externas.
+
+Links dos botões: WhatsApp Marcel Valdetaro (27) 98136-0302.
+É possível alterar títulos, conteúdos, endereços e cores em index.html e style.css.
